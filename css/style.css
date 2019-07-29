@@ -49,3 +49,7 @@ h2 {
 .column img{
 	border: 4px solid #cbcbcb;
 }
+
+footer {
+	float: right;
+}
