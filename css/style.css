@@ -25,10 +25,13 @@ h1 {
 	font-family: 'Baskerville';
 	color: #9faca9;
 	font-size: 60pt;
-	border: 2px solid #9faca9;
 }
 
 h2 {
 	color: #717d79;
 	font-size: 24pt;
+}
+
+img {
+	border: 2px solid #9faca9;
 }
