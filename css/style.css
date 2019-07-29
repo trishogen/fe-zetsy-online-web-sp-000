@@ -51,5 +51,6 @@ h2 {
 }
 
 footer {
-	float: right;
+float: right;
+ text-align: right;
 }
