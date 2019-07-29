@@ -36,3 +36,12 @@ h2 {
 #main img {
 	border: 5px solid #9faca9;
 }
+
+#main img {
+	border: 5px solid #9faca9;
+}
+
+.column {
+  display: inline-block;
+  width: 23%;
+}
