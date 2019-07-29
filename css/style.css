@@ -49,6 +49,10 @@ h2 {
 	margin-bottom: 20px;
 }
 
+#press img:hover {
+	border: 5px rgb(111,127,122) solid;
+}
+
 footer {
 	text-align: right;
 	font-size: 10pt;
