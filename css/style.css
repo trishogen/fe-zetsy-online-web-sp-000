@@ -44,4 +44,5 @@ h2 {
 .column {
   display: inline;
   width: 23%;
+	margin: 0 auto;
 }
