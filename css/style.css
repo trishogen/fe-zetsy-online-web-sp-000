@@ -44,5 +44,8 @@ h2 {
 .column {
   display: inline;
   width: 23%;
+}
+
+.column img{
 	border: 2px solid #9faca9;
 }
