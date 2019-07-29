@@ -42,6 +42,6 @@ h2 {
 }
 
 .column {
-  display: inline-block;
+  display: inline;
   width: 23%;
 }
